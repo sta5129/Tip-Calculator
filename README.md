@@ -1,5 +1,5 @@
 # Tip-Calculator
-Tip Calculator is an app that splits the tip for you. You enter your buill total, select the percentage of tip you'd like to give and choose your split number. The app will calculate how much each person in your goup should give.
+Tip Calculator is an app that splits the bill and tip for you. You enter your bill total, select the percentage of tip you'd like to give and choose your split number. The app will calculate how much each person owes toward the total bill including the tip.
 
 
 ![Simulator Screenshot - iPhone 13 Pro - 2023-09-28 at 19 03 51](https://github.com/sta5129/Tip-Calculator/assets/83985934/d69cfbcb-2054-4202-bf95-a536664ad728)
